@@ -1,0 +1,26 @@
+body {
+    background-image: url("cocktails.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    } 
+
+p {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    margin-top: 3%;
+}
+
+.pepito {
+    padding: 10px;
+    width: 5cm;
+    border-color: black;
+    border-style:double;  
+    background: linear-gradient(yellow, red);
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
